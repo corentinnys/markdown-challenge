@@ -1,6 +1,6 @@
 Corentin nys  (as a large header)
 
-*I never lose either I win or I learn*
+*I never lose either I win or I learn* by Nelson Mandella
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
@@ -13,7 +13,7 @@ Favorite color: red
 Favorite food: pizza
 Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-###Hobbies### 
+### Hobbies
 
 
 I like sport :
