@@ -12,8 +12,7 @@ Birthday  | Favorite color | Favorite Food
 --------- | ---------------|--------------
 16 october|  Red           | Pizza
 
-
-Pinneapple on pizza: - [x]
+ - [x] Pinneapple on pizza
 
 ### Hobbies
 
