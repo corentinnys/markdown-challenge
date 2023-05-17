@@ -1,6 +1,6 @@
-Your Name (as a large header)
+Corentin nys  (as a large header)
 
-An inspirational quote in italics
+*I never lose either I win or I learn*
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
@@ -8,14 +8,21 @@ A (professional) photo of yourself (you can save the file in the repository next
 
 A table with the following structure:
 
-Birthday: dd/mm
-Favorite color: ?
-Favorite food: ?
+Birthday: 16/10/1990
+Favorite color: red
+Favorite food: pizza
 Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
 
-Hobbies (smaller header)
+###Hobbies### 
 
-This should contain a bullet list of your hobbies
+
+I like sport :
+- Table Tennis 
+- Fun Fencing
+- Basket Ball
+
+
+
 At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
 
 You can always count on me when... (smaller header)
@@ -36,4 +43,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< [Github](http://github.com) || Corentin || next >>
+<< [Github](http://github.com) || Corentin || Illias >>
