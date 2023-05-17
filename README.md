@@ -6,17 +6,16 @@ A (professional) photo of yourself (you can save the file in the repository next
 
 "Me, in one sentence" (as a smaller header)
 
-A table with the following structure:
+
 
 Birthday  | Favorite color | Favorite Food
 --------- | ---------------|--------------
 16 october|  Red           | Pizza
 
 
-Pinneapple on pizza: Yes/No (Extra challenge: make it look like a (un)checked checkbox)
+Pinneapple on pizza: - [x]
 
 ### Hobbies
-
 
 I like sport :
 - Table Tennis 
