@@ -36,4 +36,4 @@ Organise yourself so it is easy to know who you should link to.
 
 The links should have the following structure:
 
-<< previous || YOUR NAME || next >>
+<< [Github](http://github.com) || Corentin || next >>
