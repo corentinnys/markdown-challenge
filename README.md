@@ -25,10 +25,10 @@ You can always count on me when it comes to my family, when someone needs help, 
 
 In a group I position myself as a person who moves the group forward, I like to put people at ease
 
-A funny story (smaller header)
-### 
 
-Tell a short funny story about your life.
+### my getaway
+
+I was in a campsite in the south of France, there was an evening organized. I was so far away because I was drunk I ended up sleeping in someone else's tent that I didn't know.
 
 
 
