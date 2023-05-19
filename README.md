@@ -35,4 +35,4 @@ alcohol harms dignity
 
 The links should have the following structure:
 
-<< [clara](https://github.com/clamaha/markdown-challenge) || Corentin || [Illias](https://github.com/FLE0/Markdown-challenge) >
+< [clara](https://github.com/clamaha/markdown-challenge) || Corentin || [Illias](https://github.com/FLE0/Markdown-challenge) >
