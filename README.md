@@ -1,11 +1,11 @@
-#Corentin nys  
+# Corentin nys  
 
 *I never lose either I win or I learn* by Nelson Mandella
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
 
-#####I am a nice, smiling, open, hardworking person, who likes to help other people.
+##### I am a nice, smiling, open, hardworking person, who likes to help other people.
 
 Birthday  | Favorite color | Favorite Food
 --------- | ---------------|--------------
