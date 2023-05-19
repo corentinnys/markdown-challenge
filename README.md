@@ -2,7 +2,7 @@
 
 *I never lose either I win or I learn* by Nelson Mandella
 
-A (professional) photo of yourself (you can save the file in the repository next to the README file)
+![profils logo](profils.jpg)
 
 
 ##### I am a nice, smiling, open, hardworking person, who likes to help other people.
@@ -21,13 +21,16 @@ I like sport :
 - Basket Ball
 
 
-You can always count on me when... (smaller header)
+You can always count on me when it comes to my family, when someone needs help, when it comes to lending a hand.
 
 In a group I position myself as a person who moves the group forward, I like to put people at ease
 
 A funny story (smaller header)
+### 
 
 Tell a short funny story about your life.
+
+
 
 TL;DR (even smaller header, under funny story)
 
