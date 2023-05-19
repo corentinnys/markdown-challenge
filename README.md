@@ -31,10 +31,7 @@ In a group I position myself as a person who moves the group forward, I like to 
 I was in a campsite in the south of France, there was an evening organized. I was so far away because I was drunk I ended up sleeping in someone else's tent that I didn't know.
 
 
-
-TL;DR (even smaller header, under funny story)
-
-Summarise your funny story in one short sentence.
+alcohol harms dignity
 
 The links should have the following structure:
 
