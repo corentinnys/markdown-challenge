@@ -1,12 +1,11 @@
-Corentin nys  (as a large header)
+#Corentin nys  
 
 *I never lose either I win or I learn* by Nelson Mandella
 
 A (professional) photo of yourself (you can save the file in the repository next to the README file)
 
-"Me, in one sentence" (as a smaller header)
 
-
+#####I am a nice, smiling, open, hardworking person, who likes to help other people.
 
 Birthday  | Favorite color | Favorite Food
 --------- | ---------------|--------------
@@ -24,8 +23,7 @@ I like sport :
 
 You can always count on me when... (smaller header)
 
-Tell your teammates which positive contribution to the group you will make.
-This could be technical, making people feel comfortable, being an organiser...
+In a group I position myself as a person who moves the group forward, I like to put people at ease
 
 A funny story (smaller header)
 
